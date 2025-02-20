@@ -1,0 +1,21 @@
+# Node.js (React)
+node_modules/
+*.log
+dist/
+build/
+.vscode/
+.env
+.DS_Store
+
+# Go
+bin/
+*.exe
+*.out
+*.log
+*.test
+*.swp
+*.modcache
+cover.out
+/tmp/
+go.work
+.idea/
